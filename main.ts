@@ -138,3 +138,4 @@ let Spieler = sprites.create(img`
     . . . c c c c c c c c b b . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+controller.moveSprite(Spieler)
